@@ -233,7 +233,7 @@ Long-term use of opioids must not be abruptly discontinued to avoid withdrawal.
 
 Tapering opioid therapy must be conducted in a stepwise fashion, involving patients throughout the process.
 
-### Quiz 2
+### Quiz 3
 Mr A is on aqueous morphine 5 mg 4-hourly and required to take 3 extra rescue doses for pain control.
 What will be his new requirement for adequate pain control?
 
@@ -252,7 +252,7 @@ B. 7 mg / 4 hourly
 
 <img width="1204" height="645" alt="Picture 4-1" src="https://github.com/user-attachments/assets/68f8e01f-527c-4904-8489-a5c5388fbe40" />
 
-### Quiz 3
+### Quiz 4
 Please convert syrup morphine 10 mg Q4H to a continuous IV infusion.
 
 - A. 200 mg / 24 hours 
