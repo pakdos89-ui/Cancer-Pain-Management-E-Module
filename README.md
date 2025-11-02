@@ -65,7 +65,7 @@ Anwers options
 <details>
 <summary>Answer (click to reveal)</summary>
 
-- D. All of above 
+- D. All of above
 
 ## Approach to Pain Management
 
@@ -86,9 +86,11 @@ Anwers options
 Analgesic medications can be broadly classified into 
 
 1. Non-opioids includes e.g. Paracetamol, NSAIDs, COX-2 inhibitors.
+
 2. Opioids, that can be further classified into 
 - Weak opioids (e.g. Tramadol, Codeine, Dihydrocodeine) 
 - Strong opioids (e.g. Morphine, Oxycodone, Pethidine, Fentanyl).
+
 3. Other adjuvant medications, used mainly in the management of neuropathic pain include:
 - Antidepressants (e.g. amitriptyline, duloxetine) 
 - Anticonvulsants (e.g. carbamazepine, gabapentin and pregabalin).
