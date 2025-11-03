@@ -1,4 +1,4 @@
-# Cancer Pain Management E-Module
+**# Cancer Pain Management E-Module**
 
 This e-learning module serves as a reusable digital educational resource designed to support instruction and learning. Developed as a Reusable Learning Object (RLO), it enables users to learn flexibly at their own pace and convenience. The main objective is to enhance healthcare professionals’ knowledge and attitudes toward opioid prescription, particularly among staff at Pusat Perubatan Universiti Malaya (PPUM). 
 This module aims to improve confidence and competency in prescribing opioids appropriately for cancer pain management.
@@ -14,11 +14,11 @@ Which is not an element of the WHO approach to opioid prescribing?
 <details>
 <summary>Answer (click to reveal)</summary>
 
-B. by injection
+**B. by injection**
 
 </details>
 
-# Introduction
+**# Introduction**
 
 Cancer accounted for over 10% of all medically-certified deaths in Malaysia, in 2021.
 
@@ -37,7 +37,7 @@ The main barriers to effective pain control in Malaysia relate to physicians’ 
 
 <img width="902" height="527" alt="Poor Pain Mx" src="https://github.com/user-attachments/assets/78c10fb3-9aad-4dc0-bb4f-feae55c186e7" />
 
-Image 1: Causes of Poor Pain Management
+**Image 1: Causes of Poor Pain Management**
 
 Thus pain should be routinely assessed at regular interval as the 5th vital sign during routine observation to advocate “Pain as the 5th Vital Sign” initative.
 
@@ -45,7 +45,7 @@ We can do pain scoring by using pain assessment tool that is recommended for use
 
 <img width="631" height="170" alt="Picture 3" src="https://github.com/user-attachments/assets/11491c65-b748-45f4-b396-ab4c20c3a808" />
 
-Image 2: Pain Assessment Tool used in Ministry of Health Malaysia settings
+**Image 2: Pain Assessment Tool used in Ministry of Health Malaysia settings**
 
 ### Quiz 2
 Which of the following is part of cancer pain management? 
@@ -64,23 +64,23 @@ Anwers options
 <details>
 <summary>Answer (click to reveal)</summary>
 
-- D. All of above
+**- D. All of above**
 
 </details>
 
-## Approach to Pain Management
+**## Approach to Pain Management**
 
 <img width="902" height="529" alt="Cancer Mx chart" src="https://github.com/user-attachments/assets/a2bb4909-0eba-49ba-9955-86eb9cd09a86" />
 
-Image 3: Approach to Pain Management
+**Image 3: Approach to Pain Management**
 
-## Non Pharmacological Management
+**## Non Pharmacological Management**
 
 <img width="902" height="527" alt="Non pharmaco mx" src="https://github.com/user-attachments/assets/ae0e4d47-a3e6-4f1a-bc83-72007356d0b9" />
 
-Image 4: Non Pharmacological Management of Pain
+**Image 4: Non Pharmacological Management of Pain**
 
-## Pharmacological Management
+**## Pharmacological Management**
 
 Pharmacological agents are used to to provide pain relief and improve the quality of life for the patients as the cornerstone of cancer pain management 
 
@@ -92,33 +92,34 @@ A combination of medications may be used.
 
 It is essential to monitor the patient’s response to the medication while minimising any AEs in achieving optimal pain control.
 
-### Placebo
+***### Placebo***
 - Involves giving a patient a medicine that has no pharmacological effect (e.g. giving an injection of saline for pain). 
 - Because psychological factors are very important, the patient’s pain may improve. 
 - If it works, this does not mean the patient did not have pain in the first place or that the patient was lying! 
 
-## Principles of Analgesic Management
+**## Principles of Analgesic Management**
 
 <img width="914" height="527" alt="Principal of analgesics" src="https://github.com/user-attachments/assets/20e0abef-2c44-4465-8018-00020ff610d2" />
 
-Image 5: Principles in Analgesic Management
+**Image 5: Principles in Analgesic Management**
 
-## Analgesics Ladder
+**## Analgesics Ladder**
 
 <img width="430" height="301" alt="Picture 1-1" src="https://github.com/user-attachments/assets/2372efcb-9472-416c-8bea-ca9e2610521d" />
 
-Image 6: Analgesic Ladder based on Malaysia Cancer Pain CPG
+**Image 6: Analgesic Ladder based on Malaysia Cancer Pain CPG**
 
-## List of available Analgesic Medications
+**## List of available Analgesic Medications**
 
 <img width="927" height="541" alt="Pharmacological" src="https://github.com/user-attachments/assets/03439445-eaba-4dd1-9781-e7e9441c1b9e" />
 
-Image 7: Pharmacological Options
+**Image 7: Pharmacological Options**
 
-### NON OPIOIDS 
-1. Paracetamol
+### NON OPIOIDS
 
-2. NSAIDs 
+<ins>1. Paracetamol</ins>
+
+<ins>2. NSAIDs<ins>
 - Diclofenac (Voltaren) 
 - Mefenamic Acid (Ponstan) 
 - Ibuprofen (Brufen) 
@@ -126,7 +127,7 @@ Image 7: Pharmacological Options
 - Ketoprofen (Orudis, Oruvail) 
 - Meloxicam (Mobic) 
 
-3. COX2 inhibitors 
+<ins>3. COX2 inhibitors<ins> 
 - Celecoxib (Celebrex) 
 - Etoricoxib (Arcoxia) 
 - Parecoxib (Dynastat)
@@ -135,18 +136,18 @@ Image 7: Pharmacological Options
 1. Weak opioids 
 2. Strong opioids 
 
-### ANTINEUROPATHIC AGENTS 
-1. Antidepressants 
+### ANTINEUROPATHIC AGENTS
+<ins>1. Antidepressants<ins> 
 - Tricyclic antidepressants 
-Amitriptyline 
+- Amitriptyline 
 - Nortriptyline 
 
-2. Anticonvulsants
+<ins>2. Anticonvulsants<ins>
 - Carbamazepine 
 - Gabapentin 
 - Pregabalin
 
-## Weak Opioids
+**## Weak Opioids**
 
 Used for mild to moderate pain in WHO Cancer Ladder Step 2
 
@@ -155,13 +156,13 @@ Examples of drug
 - Dihydrocodeine 
 - Codeine
 
-## Strong Opioids
+**## Strong Opioids**
 
 Recommended to be used for moderate to severe pain
 
 Examples of drug includes morphine, fentanyl and oxycodone
 
-## Morphine
+**## Morphine**
 
 Potent analgesic agent – the “gold standard” opioid analgesic, should be the first choice of treatment in moderate to severe cancer pain.
 
@@ -171,7 +172,7 @@ Morphine (either Immediate Release/ Sustained Release)
 
 Bioavailability of oral route is 30% due to first pass effect (metabolized in liver)  
 
-Elimination half-life is 3-4 hours, excreted via kidney 
+Elimination half-life is **3-4 hours**, excreted via kidney 
 
 Need to be cautious in patients with impaired liver and/or renal functions 
 
@@ -181,9 +182,9 @@ Peak analgesic effect:
 
 <img width="1133" height="445" alt="Picture 2" src="https://github.com/user-attachments/assets/946b9727-d984-4e7c-b338-b926301ed0ec" />
 
-Image 8: Pharmacokinetics of different group of strong opioids
+**Image 8: Pharmacokinetics of different group of strong opioids**
 
-## Opioid Initiation and Titration
+**## Opioid Initiation and Titration**
 
 Titrated according to individual analgesic response and occurrence of adverse events
 
@@ -195,7 +196,7 @@ In elderly, start with a lower dose of 2.5 - 5 mg 4 - 6-hourly of the IR formula
 
 May consider rapid titration using IV or SC morphine in patients presenting with severe cancer pain for initial pain control.
 
-No maximum dose for strong opioids in cancer pain management.
+**No maximum dose for strong opioids in cancer pain management.**
 
 Alternative methods of administration for severe cancer pain:
 - 4-hourly parenteral morphine/oxycodone 
@@ -218,15 +219,15 @@ What will be his new requirement for adequate pain control?
 <details>
 <summary>Answer (click to reveal)</summary>
 
-B. 7 mg / 4 hourly
+**B. 7 mg / 4 hourly**
 
 </details>
 
-## Opioid Conversion
+**## Opioid Conversion**
 
 <img width="1204" height="645" alt="Picture 4-1" src="https://github.com/user-attachments/assets/68f8e01f-527c-4904-8489-a5c5388fbe40" />
 
-Image 9: Opioids dose conversion summary
+**Image 9: Opioids dose conversion summary**
 
 ### Quiz 4
 Please convert syrup morphine 10 mg Q4H to a continuous IV infusion.
@@ -238,11 +239,11 @@ Please convert syrup morphine 10 mg Q4H to a continuous IV infusion.
 <details>
 <summary>Answer (click to reveal)</summary>
 
-B. 20 mg / 24 hours
+**B. 20 mg / 24 hours**
 
 </details>
 
-## Breakthrough Pain Management
+**## Breakthrough Pain Management**
 
 Subtypes of breakthrough pain
 
@@ -256,7 +257,7 @@ End of dose failure
 - Medication effect wears off before the next scheduled analgesic dose 
 - May be attributed to inadequate analgesic doses or dose intervals exceeding the medication’s duration of minimum effective plasma level for pain control.
 
-## Opioid Adverse Effects
+**## Opioid Adverse Effects**
 
 Dose effect relationship, where higher rate of AE with higher doses
 
@@ -272,7 +273,7 @@ renal/liver impairment:
 - All opioids should be used with caution.
 - Adjustment in doses/frequency of opioids should be considered to avoid toxicity. 
 
-## Opioid Toxicity
+**## Opioid Toxicity**
 
 ### Respiratory Depression
 
@@ -288,14 +289,12 @@ If severe respiratory depression with respiratory rate of < 8x/ minute occurs, l
 
 Large bolus doses of naloxone should not be given as it reverses the analgesic effects and causes major physical withdrawal syndromes, leading to breakthrough pain
 
-## Opioids Tolerance and Addiction
+**## Opioids Tolerance and Addiction**
 
-### Opioid Tolerance
-Long term body adaptation to opioids resulting in reduced clinical effectiveness of opioids with repeated use at the same dose.
+<ins>### Opioid Tolerance<ins>
+Opioid tolerance refers to reduced effectiveness after long-term use, requiring higher doses for the same effect. This should not deter appropriate opioid therapy for cancer pain.
 
-Fear of opioid tolerance should not cause any hesitation to start or increase opioid therapy for cancer patients experiencing pain.
-
-### Opioid Addiction
+<ins>### Opioid Addiction<ins>
 Defined as a chronic neurobiologic disease, characterized by behaviors that include 
 
 1. Impaired control over drug use
@@ -303,7 +302,7 @@ Defined as a chronic neurobiologic disease, characterized by behaviors that incl
 3. Continued use despite harm
 4. Craving
 
-## Alternative Therapy
+**## Alternative Therapy**
 
 1. Biphosphonates in treating bone pain
 
@@ -323,7 +322,7 @@ Defined as a chronic neurobiologic disease, characterized by behaviors that incl
 
 6. Palliative Chemotherapy
 
-## Post Test Assessment
+**## Post Test Assessment**
 
 Thank you for staying with us until the end of the module. We would greatly appreciate it if you could complete the post-test questionnaire to help us evaluate any changes in your knowledge and attitude toward pain management.
 
@@ -331,10 +330,11 @@ The link for the post test is as the following:
 
 [https://docs.google.com/forms/d/1NZA9qTaKpH7FqKpeWsNzEsmMcdWZG9ZEN-aFqpIWXjk/edit](url)
 
-## References
+**## References**
 
 1. MANAGEMENT OF CANCER PAIN CPG (SECOND EDITION)
-https://www.moh.gov.my/moh/resources/Penerbitan/CPG/Kanser/e-CPG_Management_of_Cancer_Pain_(Second_Edition)_8_8_24.pdf
+[https://www.moh.gov.my/moh/resources/Penerbitan/CPG/Kanser/e-CPG_Management_of_Cancer_Pain_(Second_Edition)_8_8_24.pdf](url)
 
 2. PAIN AS THE 5TH VITAL SIGN 
-https://www.moh.gov.my/moh/resources/Penerbitan/Program%20Bebas%20Kesakitan/Garis%20Panduan/2_in_1_P5VS_Guideline_3rd_Edition_Corrected_2020.pdf
+[https://www.moh.gov.my/moh/resources/Penerbitan/Program%20Bebas%20Kesakitan/Garis%20Panduan/2_in_1_P5VS_Guideline_3rd_Edition_Corrected_2020.pdf
+](url)
