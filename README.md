@@ -337,7 +337,7 @@ The link for the post test is as the following:
 
 [https://docs.google.com/forms/d/1NZA9qTaKpH7FqKpeWsNzEsmMcdWZG9ZEN-aFqpIWXjk/edit](url)
 
-**## References**
+## References
 
 1. MANAGEMENT OF CANCER PAIN CPG (SECOND EDITION)
 [https://www.moh.gov.my/moh/resources/Penerbitan/CPG/Kanser/e-CPG_Management_of_Cancer_Pain_(Second_Edition)_8_8_24.pdf](url)
