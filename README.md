@@ -111,28 +111,21 @@ It is essential to monitor the patient’s response to the medication while mini
 
 ## Principles of Analgesic Management
 
-1. By mouth 
-- Analgesic medication should be given by mouth whenever possible.
+<img width="914" height="527" alt="Principal of analgesics" src="https://github.com/user-attachments/assets/20e0abef-2c44-4465-8018-00020ff610d2" />
 
-2. By the clock 
-- Doses of analgesic medication should be given at fixed intervals around-the-clock. 
-- The aim is for the next dose to be given before the previous dose effect has worn off. 
-
-3. For the individual 
-- As each patient is unique and different, analgesic therapy should be individualised.
-- This is based on the type of pain, response to medication, AE etc. 
-
-4. Attention to detail 
-- Prescription timing should consider the patient’s day and sleep schedule. 
-- Education on the use of these medications should be given including effects and AEs.
+Image 5: Principles in Analgesic Management
 
 ## Analgesics Ladder
 
 <img width="430" height="301" alt="Picture 1-1" src="https://github.com/user-attachments/assets/2372efcb-9472-416c-8bea-ca9e2610521d" />
 
-Image: Analgesic Ladder based on WHO
+Image 6: Analgesic Ladder based on Malaysia Cancer Pain CPG
 
 ## List of available Analgesic Medications
+
+<img width="927" height="541" alt="Pharmacological" src="https://github.com/user-attachments/assets/03439445-eaba-4dd1-9781-e7e9441c1b9e" />
+
+Image 7: Pharmacological Options
 
 ### NON OPIOIDS 
 1. Paracetamol
@@ -150,7 +143,7 @@ Image: Analgesic Ladder based on WHO
 - Etoricoxib (Arcoxia) 
 - Parecoxib (Dynastat)
 
-### OPIODS
+### OPIOIDS
 1. Weak opioids 
 2. Strong opioids 
 
@@ -165,7 +158,7 @@ Amitriptyline
 - Gabapentin 
 - Pregabalin
 
-## Weak Opiods
+## Weak Opioids
 
 Used for mild to moderate pain in WHO Cancer Ladder Step 2
 
@@ -174,7 +167,7 @@ Examples of drug
 - Dihydrocodeine 
 - Codeine
 
-## Strong Opiods
+## Strong Opioids
 
 Recommended to be used for moderate to severe pain
 
