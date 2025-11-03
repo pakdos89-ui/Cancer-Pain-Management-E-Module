@@ -1,7 +1,7 @@
-# Opioid Prescribing Tutorial
+# Cancer Pain Management E-Module
 
-This E-learning module is created in a way to assess knowledge and attitude over prescription of Opiods among Healthcare workers in Pusat Perubatan Universiti Malaya as we can take measurements needed to improve knowledge and attitude towards Opioid prescription in cancer pain management.
-
+This E-learning module provides a digital educational resource that can be reused and shared from a central online repository in the support of instruction and learning.
+This module is created using a Reusable Learning Object module so that users can benefit by its flexibility by going through the module during your own free time. It's main goal is to help improve knowledge and attitude over prescription of Opioids among Healthcare workers, mainly in Pusat Perubatan Universiti Malaya. We are hoping with this module, users will be more confident and improve knowlegde in prescription on appropriately for Cancer Pain Management in the near future. 
 
 ### Quiz 1
 Which is not an element of the WHO approach to opioid prescribing?
