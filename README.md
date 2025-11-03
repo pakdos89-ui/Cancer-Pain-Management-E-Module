@@ -1,4 +1,4 @@
-**# Cancer Pain Management E-Module**
+# CANCER PAIN MANAGEMENT E-MODULE
 
 This e-learning module serves as a reusable digital educational resource designed to support instruction and learning. Developed as a Reusable Learning Object (RLO), it enables users to learn flexibly at their own pace and convenience. The main objective is to enhance healthcare professionals’ knowledge and attitudes toward opioid prescription, particularly among staff at Pusat Perubatan Universiti Malaya (PPUM). 
 This module aims to improve confidence and competency in prescribing opioids appropriately for cancer pain management.
@@ -14,11 +14,11 @@ Which is not an element of the WHO approach to opioid prescribing?
 <details>
 <summary>Answer (click to reveal)</summary>
 
-**B. by injection**
+B. by injection
 
 </details>
 
-**# Introduction**
+# INTRODUCTION
 
 Cancer accounted for over 10% of all medically-certified deaths in Malaysia, in 2021.
 
@@ -64,23 +64,23 @@ Anwers options
 <details>
 <summary>Answer (click to reveal)</summary>
 
-**- D. All of above**
+- D. All of above
 
 </details>
 
-**## Approach to Pain Management**
+## APPROACH TO PAIN MANAGEMENT
 
 <img width="902" height="529" alt="Cancer Mx chart" src="https://github.com/user-attachments/assets/a2bb4909-0eba-49ba-9955-86eb9cd09a86" />
 
 **Image 3: Approach to Pain Management**
 
-**## Non Pharmacological Management**
+## NON PHARMACOLOGICAL MANAGEMENT
 
 <img width="902" height="527" alt="Non pharmaco mx" src="https://github.com/user-attachments/assets/ae0e4d47-a3e6-4f1a-bc83-72007356d0b9" />
 
 **Image 4: Non Pharmacological Management of Pain**
 
-**## Pharmacological Management**
+## PHARMACOLOGICAL MANAGEMENT
 
 Pharmacological agents are used to to provide pain relief and improve the quality of life for the patients as the cornerstone of cancer pain management 
 
@@ -92,24 +92,24 @@ A combination of medications may be used.
 
 It is essential to monitor the patient’s response to the medication while minimising any AEs in achieving optimal pain control.
 
-***### Placebo***
+### PLACEBO
 - Involves giving a patient a medicine that has no pharmacological effect (e.g. giving an injection of saline for pain). 
 - Because psychological factors are very important, the patient’s pain may improve. 
-- If it works, this does not mean the patient did not have pain in the first place or that the patient was lying! 
+- If it works, this **does not mean** the patient did not have pain in the first place or that the patient was lying! 
 
-**## Principles of Analgesic Management**
+## PRINCIPLE OF ANALGESIC MANAGEMENT
 
 <img width="914" height="527" alt="Principal of analgesics" src="https://github.com/user-attachments/assets/20e0abef-2c44-4465-8018-00020ff610d2" />
 
 **Image 5: Principles in Analgesic Management**
 
-**## Analgesics Ladder**
+## ANALGESICS LADDER
 
 <img width="430" height="301" alt="Picture 1-1" src="https://github.com/user-attachments/assets/2372efcb-9472-416c-8bea-ca9e2610521d" />
 
 **Image 6: Analgesic Ladder based on Malaysia Cancer Pain CPG**
 
-**## List of available Analgesic Medications**
+## LIST OF AVAILABLE ANALGESIC MEDICATIONS
 
 <img width="927" height="541" alt="Pharmacological" src="https://github.com/user-attachments/assets/03439445-eaba-4dd1-9781-e7e9441c1b9e" />
 
@@ -133,10 +133,12 @@ It is essential to monitor the patient’s response to the medication while mini
 - Parecoxib (Dynastat)
 
 ### OPIOIDS
+
 1. Weak opioids 
 2. Strong opioids 
 
 ### ANTINEUROPATHIC AGENTS
+
 <ins>1. Antidepressants<ins> 
 - Tricyclic antidepressants 
 - Amitriptyline 
@@ -147,7 +149,7 @@ It is essential to monitor the patient’s response to the medication while mini
 - Gabapentin 
 - Pregabalin
 
-**## Weak Opioids**
+## WEAK OPIOIDS
 
 Used for mild to moderate pain in WHO Cancer Ladder Step 2
 
@@ -156,13 +158,13 @@ Examples of drug
 - Dihydrocodeine 
 - Codeine
 
-**## Strong Opioids**
+## STRONG OPIOIDS
 
 Recommended to be used for moderate to severe pain
 
 Examples of drug includes morphine, fentanyl and oxycodone
 
-**## Morphine**
+## MORPHINE
 
 Potent analgesic agent – the “gold standard” opioid analgesic, should be the first choice of treatment in moderate to severe cancer pain.
 
@@ -184,9 +186,9 @@ Peak analgesic effect:
 
 **Image 8: Pharmacokinetics of different group of strong opioids**
 
-**## Opioid Initiation and Titration**
+## OPIOID INITIATION AND TITRATION 
 
-Titrated according to individual analgesic response and occurrence of adverse events
+Titrated according to **individual analgesic response** and **occurrence of adverse events.**
 
 To achieve optimal pain relieve with minimal adverse events
 
@@ -219,11 +221,11 @@ What will be his new requirement for adequate pain control?
 <details>
 <summary>Answer (click to reveal)</summary>
 
-**B. 7 mg / 4 hourly**
+B. 7 mg / 4 hourly
 
 </details>
 
-**## Opioid Conversion**
+## OPIOID CONVERSION
 
 <img width="1204" height="645" alt="Picture 4-1" src="https://github.com/user-attachments/assets/68f8e01f-527c-4904-8489-a5c5388fbe40" />
 
@@ -239,11 +241,11 @@ Please convert syrup morphine 10 mg Q4H to a continuous IV infusion.
 <details>
 <summary>Answer (click to reveal)</summary>
 
-**B. 20 mg / 24 hours**
+B. 20 mg / 24 hours
 
 </details>
 
-**## Breakthrough Pain Management**
+## BREAKTHROUGH PAIN MANAGEMENT
 
 Subtypes of breakthrough pain
 
@@ -253,11 +255,11 @@ Pain triggered by certain activity such as movement
 2. Spontaneous Pain
 Sudden with no identifiable source
 
-End of dose failure 
+3. End of dose failure 
 - Medication effect wears off before the next scheduled analgesic dose 
 - May be attributed to inadequate analgesic doses or dose intervals exceeding the medication’s duration of minimum effective plasma level for pain control.
 
-**## Opioid Adverse Effects**
+## OPIOID ADVERSE EFFECTS
 
 Dose effect relationship, where higher rate of AE with higher doses
 
@@ -273,9 +275,9 @@ renal/liver impairment:
 - All opioids should be used with caution.
 - Adjustment in doses/frequency of opioids should be considered to avoid toxicity. 
 
-**## Opioid Toxicity**
+## OPIOID TOXICITY
 
-### Respiratory Depression
+### RESPIRATORY DEPRESSION
 
 Very rare event, happens during rapid titration of opioid
 
@@ -285,11 +287,11 @@ When appropriately titrated against the patient’s pain, strong opioids do not 
 
 Sedation assessment is a good early clinical indicator of opioid-induced respiratory depression
 
-If severe respiratory depression with respiratory rate of < 8x/ minute occurs, low doses of naloxone at 40 mcg (0.04 mg) can be used and titrated every 1 - 3 minutes against the patient’s respiratory rate. 
+If **severe respiratory depression with respiratory rate of < 8x/ minute occurs**, low doses of naloxone at 40 mcg (0.04 mg) can be used and titrated every 1 - 3 minutes against the patient’s respiratory rate. 
 
-Large bolus doses of naloxone should not be given as it reverses the analgesic effects and causes major physical withdrawal syndromes, leading to breakthrough pain
+**Large bolus doses of naloxone should not be given as it reverses the analgesic effects and causes major physical withdrawal syndromes, leading to breakthrough pain.**
 
-**## Opioids Tolerance and Addiction**
+## OPIOID TOLERANCE AND ADDICTION
 
 <ins>### Opioid Tolerance<ins>
 Opioid tolerance refers to reduced effectiveness after long-term use, requiring higher doses for the same effect. This should not deter appropriate opioid therapy for cancer pain.
@@ -302,7 +304,7 @@ Defined as a chronic neurobiologic disease, characterized by behaviors that incl
 3. Continued use despite harm
 4. Craving
 
-**## Alternative Therapy**
+## ALTERNATIVE THERAPY
 
 1. Biphosphonates in treating bone pain
 
@@ -322,7 +324,7 @@ Defined as a chronic neurobiologic disease, characterized by behaviors that incl
 
 6. Palliative Chemotherapy
 
-**## Post Test Assessment**
+## POST TEST ASSESSMENT
 
 Thank you for staying with us until the end of the module. We would greatly appreciate it if you could complete the post-test questionnaire to help us evaluate any changes in your knowledge and attitude toward pain management.
 
