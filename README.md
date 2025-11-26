@@ -474,6 +474,7 @@ The following are reasonable post discharge plans for patients commenced on oral
 
 </details>
 
+### FOLLOW UP
 
 Follow-up care for patients with cancer pain can be provided at home, primary care clinics or specialised outpatient clinics.
 
