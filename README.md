@@ -61,10 +61,9 @@ Which is the most common concern among patients?
 <details>
 <summary>Answer (click to reveal)</summary>
 
-C. Belief that opioids are only for terminal cases
+C. Belief that opioids are only for terminal cases. In the same study 62% felt opioids were only for terminal cases, 54% feared adverse effects and 48% were concerned about becoming addicted.
 
 </details>
-In the same study 62% felt opioids were only for terminal cases, 54% feared adverse effects and 48% were concerned about becoming addicted.
 
 # INTRODUCTION
 
