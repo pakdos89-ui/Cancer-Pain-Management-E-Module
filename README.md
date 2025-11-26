@@ -348,6 +348,19 @@ B. 1/6 to 1/10 of total daily opioid dose
 
 ## OPIOID ADVERSE EFFECTS
 
+Dose effect relationship, where higher rate of AE with higher doses
+
+Need to be monitored to ensure compliance and optimal pain control
+
+Management includes
+
+- Recognition of adverse effects 
+
+- Adjustment of opioid dosages
+
+- Symptomatic management of certain adverse effects
+
+
 ### Quiz 9
 Which is **NOT** a recommendation in preventing adverse effects in liver and kidney impairment?
 
@@ -362,18 +375,6 @@ Which is **NOT** a recommendation in preventing adverse effects in liver and kid
 - A. Avoid using opioids
 
 </details>
-
-Dose effect relationship, where higher rate of AE with higher doses
-
-Need to be monitored to ensure compliance and optimal pain control
-
-Management includes
-
-- Recognition of adverse effects 
-
-- Adjustment of opioid dosages
-
-- Symptomatic management of certain adverse effects
 
 
 <img width="410" height="387" alt="Opioid AE" src="https://github.com/user-attachments/assets/f1ce77db-63ce-464e-ab4b-46465a886623" />
