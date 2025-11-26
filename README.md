@@ -94,7 +94,7 @@ We can do pain scoring by using pain assessment tool that is recommended for use
 
 **Image 2: Pain Assessment Tool used in Ministry of Health Malaysia settings**
 
-### Quiz 2
+### Quiz 5
 Which of the following is part of cancer pain management? 
 
 - i. Pharmacotherapy
@@ -282,7 +282,7 @@ Long-term use of opioids must not be abruptly discontinued to avoid withdrawal.
 
 Tapering opioid therapy must be conducted in a stepwise fashion, involving patients throughout the process.
 
-### Quiz 3
+### Quiz 6
 Mr A is on aqueous morphine 5 mg 4-hourly and required to take 3 extra rescue doses for pain control.
 What will be his new requirement for adequate pain control?
 
@@ -303,7 +303,7 @@ B. 7 mg / 4 hourly
 
 **Image 9: Opioids dose conversion summary**
 
-### Quiz 4
+### Quiz 7
 Please convert syrup morphine 10 mg Q4H to a continuous IV infusion.
 
 - A. 200 mg / 24 hours 
@@ -331,7 +331,33 @@ Sudden with no identifiable source
 - Medication effect wears off before the next scheduled analgesic dose 
 - May be attributed to inadequate analgesic doses or dose intervals exceeding the medication’s duration of minimum effective plasma level for pain control.
 
+### Quiz 8
+A single dose of rescue analgesia should be what fraction of the total daily opioid dose usually?
+
+- A. 25% of total daily opioid dose
+- B. 1/6 to 1/10 of total daily opioid dose
+- C. 50% of total daily opioid dose
+- D. 5% of total daily opioid dose
+
+<details>
+<summary>Answer (click to reveal)</summary>
+
+B. 1/6 to 1/10 of total daily opioid dose
+
 ## OPIOID ADVERSE EFFECTS
+
+### Quiz 9
+Which is **NOT** a recommendation in preventing adverse effects in liver and kidney impairment?
+
+- A. Avoid using opioids
+- B. Increase dosing interval
+- C. Reduce dosage
+- D. Arrange close monitoring for adverse effects
+
+<details>
+<summary>Answer (click to reveal)</summary>
+
+- A. Avoid using opioids
 
 Dose effect relationship, where higher rate of AE with higher doses
 
@@ -350,12 +376,24 @@ Management includes
 
 **Image 10: Management of most common Opioid's adverse effects, taken from Malaysia Cancer Pain CPG**
 
-In the management of cancer pain for older patients or those with
-renal/liver impairment:
+In the management of cancer pain for older patients or those with renal and/ or liver impairment:
 
 - All opioids should be used with caution.
 
-- Adjustment in doses/frequency of opioids should be considered to avoid toxicity. 
+- Adjustment in doses/frequency of opioids should be considered to avoid toxicity.
+
+### Quiz 10
+Which strong opioid is comparatively **LEAST** likely to cause adverse effects in advanced renal impairment?
+
+- A. Fentanyl
+- B. Oxycodone
+- C. Morphine
+- D. Hydromorphone
+
+<details>
+<summary>Answer (click to reveal)</summary>
+
+- A. Fentanyl
 
 ## OPIOID TOXICITY
 
@@ -411,6 +449,42 @@ Defined as a chronic neurobiologic disease, characterized by behaviors that incl
 5. Radiotherapy
 
 6. Palliative Chemotherapy
+
+## FOLLOW UP AND REFERRAL
+
+### Quiz 11
+The following are reasonable post discharge plans for patients commenced on oral morphine in hospital and discharged to their own home, **except**:
+
+- A. Referral to hospice service in community
+- B. Aiming to taper and discontinue morphine prior to discharge
+- C. Telehealth follow up
+- D. Referral to nearby Klinik Kesihatan using the official referral form
+
+<details>
+<summary>Answer (click to reveal)</summary>
+
+- B. Aiming to taper and discontinue morphine prior to discharge
+
+Follow-up care for patients with cancer pain can be provided at home, primary care clinics or specialised outpatient clinics.
+
+A home visit service provided by community palliative care providers can reach out to patients in their own homes especially for patients who are unable to travel or have immobile.
+
+This follow up is important in optimising pain control in preventing breakthrough pain and also in monitoring for any side effect from the treatment patient is receiving.
+
+Although most pain experienced by the patients can be managed by the primary team, there might be pain which does not respond well to initial treatment and requires specialised care. Thus, patients with severe pain and inadequate respond to pain management should be considered for referral to pain or palliative specialist services
+
+### Quiz 12
+Which scenario **least** warrants referral to specialist palliative care?
+
+- A. Pain suboptimally controlled with syrup morphine 5 mg Q4H (requiring 4 breakthrough doses daily)
+- B. Pain poorly responsive to opioids despite several steps of titration and opioid rotation (change to different strong opioid)
+- C. Pain associated with new-onset lower limb weakness and a sensory level in the context of spinal metastasis
+- D. Pain associated with profound existential distress and patient expressing hopelessness and loss of meaning in life
+
+<details>
+<summary>Answer (click to reveal)</summary>
+
+- A. Pain suboptimally controlled with syrup morphine 5 mg Q4H (requiring 4 breakthrough doses daily)
 
 ## POST TEST ASSESSMENT
 
