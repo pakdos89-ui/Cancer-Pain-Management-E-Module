@@ -360,6 +360,7 @@ Management includes
 
 - Symptomatic management of certain adverse effects
 
+
 <img width="410" height="387" alt="Opioid AE" src="https://github.com/user-attachments/assets/f1ce77db-63ce-464e-ab4b-46465a886623" />
 
 **Image 10: Management of most common Opioid's adverse effects, taken from Malaysia Cancer Pain CPG**
