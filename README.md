@@ -18,6 +18,54 @@ B. by injection
 
 </details>
 
+### Quiz 2
+How common is cancer pain generally?
+
+- A. 90% of patients on diagnosis
+- B. 10% during anticancer treatment
+- C. 38.0% of all patients experience moderate to severe pain
+- D. 2% after curative treatment
+
+<details>
+<summary>Answer (click to reveal)</summary>
+
+C. 38.0% of all patients experience moderate to severe pain
+
+</details>
+
+### Quiz 3
+According to Global Cancer Observatory of the World Health Organization (WHO) there were 51,650 new diagnoses of cancer in Malaysia in 2022 and the need for expanding palliative care services to address population needs has been acknowledged by the Ministry of Health.
+An important barrier to better pain control among cancer patients appears to relate to physicians and patient attitudes towards opioids.
+Which is the most common concern among physicians?
+
+- A. Concerns about addiction
+- B. Concerns about legality
+- C. Lack of knowledge
+
+<details>
+<summary>Answer (click to reveal)</summary>
+
+C. Lack of knowledge
+
+</details>
+
+### Quiz 4
+According to Global Cancer Observatory of the World Health Organization (WHO) there were 51,650 new diagnoses of cancer in Malaysia in 2022 and the need for expanding palliative care services to address population needs has been acknowledged by the Ministry of Health.
+An important barrier to better pain control among cancer patients appears to relate to physicians and patient attitudes towards opioids.
+Which is the most common concern among patients?
+
+- A. Addiction
+- B. Side effects
+- C. Belief that opioids are only for terminal cases
+
+<details>
+<summary>Answer (click to reveal)</summary>
+
+C. Belief that opioids are only for terminal cases
+
+</details>
+In the same study 62% felt opioids were only for terminal cases, 54% feared adverse effects and 48% were concerned about becoming addicted.
+
 # INTRODUCTION
 
 Cancer accounted for over 10% of all medically-certified deaths in Malaysia, in 2021.
