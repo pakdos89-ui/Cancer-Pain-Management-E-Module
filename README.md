@@ -459,6 +459,14 @@ Defined as a chronic neurobiologic disease, characterized by behaviors that incl
 
 ## FOLLOW UP AND REFERRAL
 
+Follow-up care for patients with cancer pain can be provided at home, primary care clinics or specialised outpatient clinics.
+
+A home visit service provided by community palliative care providers can reach out to patients in their own homes especially for patients who are unable to travel or have immobile.
+
+This follow up is important in optimising pain control in preventing breakthrough pain and also in monitoring for any side effect from the treatment patient is receiving.
+
+Although most pain experienced by the patients can be managed by the primary team, there might be pain which does not respond well to initial treatment and requires specialised care. Thus, patients with severe pain and inadequate respond to pain management should be considered for referral to pain or palliative specialist services
+
 ### Quiz 11
 The following are reasonable post discharge plans for patients commenced on oral morphine in hospital and discharged to their own home, **except**:
 
@@ -473,16 +481,6 @@ The following are reasonable post discharge plans for patients commenced on oral
 - B. Aiming to taper and discontinue morphine prior to discharge
 
 </details>
-
-### FOLLOW UP
-
-Follow-up care for patients with cancer pain can be provided at home, primary care clinics or specialised outpatient clinics.
-
-A home visit service provided by community palliative care providers can reach out to patients in their own homes especially for patients who are unable to travel or have immobile.
-
-This follow up is important in optimising pain control in preventing breakthrough pain and also in monitoring for any side effect from the treatment patient is receiving.
-
-Although most pain experienced by the patients can be managed by the primary team, there might be pain which does not respond well to initial treatment and requires specialised care. Thus, patients with severe pain and inadequate respond to pain management should be considered for referral to pain or palliative specialist services
 
 
 ### Quiz 12
