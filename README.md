@@ -167,16 +167,25 @@ It is essential to monitor the patient’s response to the medication while mini
 <ins>1. Paracetamol</ins>
 
 <ins>2. NSAIDs<ins>
+
 - Diclofenac (Voltaren) 
+
 - Mefenamic Acid (Ponstan) 
+
 - Ibuprofen (Brufen) 
+
 - Naproxen (Naprosyn, Synflex) 
+
 - Ketoprofen (Orudis, Oruvail) 
+
 - Meloxicam (Mobic) 
 
 <ins>3. COX2 inhibitors<ins> 
+
 - Celecoxib (Celebrex) 
+
 - Etoricoxib (Arcoxia) 
+
 - Parecoxib (Dynastat)
 
 ### OPIOIDS
