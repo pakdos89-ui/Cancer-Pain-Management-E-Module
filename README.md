@@ -401,6 +401,7 @@ Which strong opioid is comparatively **LEAST** likely to cause adverse effects i
 
 </details>
 
+
 ## OPIOID TOXICITY
 
 ### RESPIRATORY DEPRESSION
@@ -473,6 +474,7 @@ The following are reasonable post discharge plans for patients commenced on oral
 
 </details>
 
+
 Follow-up care for patients with cancer pain can be provided at home, primary care clinics or specialised outpatient clinics.
 
 A home visit service provided by community palliative care providers can reach out to patients in their own homes especially for patients who are unable to travel or have immobile.
@@ -483,7 +485,7 @@ Although most pain experienced by the patients can be managed by the primary tea
 
 
 ### Quiz 12
-Which scenario **least** warrants referral to specialist palliative care?
+Which scenario **LEAST** warrants referral to specialist palliative care?
 
 - A. Pain suboptimally controlled with syrup morphine 5 mg Q4H (requiring 4 breakthrough doses daily)
 - B. Pain poorly responsive to opioids despite several steps of titration and opioid rotation (change to different strong opioid)
