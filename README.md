@@ -372,21 +372,6 @@ In the management of cancer pain for older patients or those with renal and/ or 
 - Adjustment in doses/frequency of opioids should be considered to avoid toxicity.
 
 ### Quiz 9
-Which is **NOT** a recommendation in preventing adverse effects in liver and kidney impairment?
-
-- A. Avoid using opioids
-- B. Increase dosing interval
-- C. Reduce dosage
-- D. Arrange close monitoring for adverse effects
-
-<details>
-<summary>Answer (click to reveal)</summary>
-
-- A. Avoid using opioids
-
-</details>
-
-### Quiz 10
 Which strong opioid is comparatively **LEAST** likely to cause adverse effects in advanced renal impairment?
 
 - A. Fentanyl
@@ -398,6 +383,21 @@ Which strong opioid is comparatively **LEAST** likely to cause adverse effects i
 <summary>Answer (click to reveal)</summary>
 
 - A. Fentanyl
+
+</details>
+
+### Quiz 10
+Which is **NOT** a recommendation in preventing adverse effects in liver and kidney impairment?
+
+- A. Avoid using opioids
+- B. Increase dosing interval
+- C. Reduce dosage
+- D. Arrange close monitoring for adverse effects
+
+<details>
+<summary>Answer (click to reveal)</summary>
+
+- A. Avoid using opioids
 
 </details>
 
