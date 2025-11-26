@@ -344,6 +344,8 @@ A single dose of rescue analgesia should be what fraction of the total daily opi
 
 B. 1/6 to 1/10 of total daily opioid dose
 
+</details>
+
 ## OPIOID ADVERSE EFFECTS
 
 ### Quiz 9
@@ -358,6 +360,8 @@ Which is **NOT** a recommendation in preventing adverse effects in liver and kid
 <summary>Answer (click to reveal)</summary>
 
 - A. Avoid using opioids
+
+</details>
 
 Dose effect relationship, where higher rate of AE with higher doses
 
@@ -394,6 +398,8 @@ Which strong opioid is comparatively **LEAST** likely to cause adverse effects i
 <summary>Answer (click to reveal)</summary>
 
 - A. Fentanyl
+
+</details>
 
 ## OPIOID TOXICITY
 
@@ -465,6 +471,8 @@ The following are reasonable post discharge plans for patients commenced on oral
 
 - B. Aiming to taper and discontinue morphine prior to discharge
 
+</details>
+
 Follow-up care for patients with cancer pain can be provided at home, primary care clinics or specialised outpatient clinics.
 
 A home visit service provided by community palliative care providers can reach out to patients in their own homes especially for patients who are unable to travel or have immobile.
@@ -485,6 +493,8 @@ Which scenario **least** warrants referral to specialist palliative care?
 <summary>Answer (click to reveal)</summary>
 
 - A. Pain suboptimally controlled with syrup morphine 5 mg Q4H (requiring 4 breakthrough doses daily)
+
+</details>
 
 ## POST TEST ASSESSMENT
 
