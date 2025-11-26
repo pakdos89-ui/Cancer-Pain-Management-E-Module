@@ -141,7 +141,9 @@ It is essential to monitor the patient’s response to the medication while mini
 
 ### PLACEBO
 - Involves giving a patient a medicine that has no pharmacological effect (e.g. giving an injection of saline for pain). 
+
 - Because psychological factors are very important, the patient’s pain may improve. 
+
 - If it works, this **does not mean** the patient did not have pain in the first place or that the patient was lying! 
 
 ## PRINCIPLE OF ANALGESIC MANAGEMENT
@@ -164,9 +166,9 @@ It is essential to monitor the patient’s response to the medication while mini
 
 ### NON OPIOIDS
 
-<ins>1. Paracetamol</ins>
+1. Paracetamol
 
-<ins>2. NSAIDs<ins>
+2. NSAIDs
 
 - Diclofenac (Voltaren) 
 
@@ -180,7 +182,7 @@ It is essential to monitor the patient’s response to the medication while mini
 
 - Meloxicam (Mobic) 
 
-<ins>3. COX2 inhibitors<ins> 
+3. COX2 inhibitors
 
 - Celecoxib (Celebrex) 
 
@@ -191,18 +193,25 @@ It is essential to monitor the patient’s response to the medication while mini
 ### OPIOIDS
 
 1. Weak opioids 
+
 2. Strong opioids 
 
 ### ANTINEUROPATHIC AGENTS
 
-<ins>1. Antidepressants<ins> 
-- Tricyclic antidepressants 
-- Amitriptyline 
-- Nortriptyline 
+1. Antidepressants
 
-<ins>2. Anticonvulsants<ins>
+- Tricyclic antidepressants 
+
+- Amitriptyline 
+
+- Nortriptyline
+
+2. Anticonvulsants
+
 - Carbamazepine 
+
 - Gabapentin 
+
 - Pregabalin
 
 ## WEAK OPIOIDS
@@ -210,8 +219,11 @@ It is essential to monitor the patient’s response to the medication while mini
 Used for mild to moderate pain in WHO Cancer Ladder Step 2
 
 Examples of drug
+
 - Tramadol
+
 - Dihydrocodeine 
+
 - Codeine
 
 ## STRONG OPIOIDS
@@ -225,7 +237,9 @@ Examples of drug includes morphine, fentanyl and oxycodone
 Potent analgesic agent – the “gold standard” opioid analgesic, should be the first choice of treatment in moderate to severe cancer pain.
 
 Morphine (either Immediate Release/ Sustained Release)
+
 - Should be used to maintain effective and safe pain relief in cancer pain. 
+
 - Should be used as rescue medicine with either formulation
 
 Bioavailability of oral route is 30% due to first pass effect (metabolized in liver)  
@@ -235,7 +249,9 @@ Elimination half-life is **3-4 hours**, excreted via kidney
 Need to be cautious in patients with impaired liver and/or renal functions 
 
 Peak analgesic effect: 
+
 - IM / SC: 30 minutes 
+
 - IV: 5 minutes
 
 <img width="1133" height="445" alt="Picture 2" src="https://github.com/user-attachments/assets/946b9727-d984-4e7c-b338-b926301ed0ec" />
@@ -322,8 +338,11 @@ Dose effect relationship, where higher rate of AE with higher doses
 Need to be monitored to ensure compliance and optimal pain control
 
 Management includes
+
 - Recognition of adverse effects 
+
 - Adjustment of opioid dosages
+
 - Symptomatic management of certain adverse effects
 
 
@@ -333,7 +352,9 @@ Management includes
 
 In the management of cancer pain for older patients or those with
 renal/liver impairment:
+
 - All opioids should be used with caution.
+
 - Adjustment in doses/frequency of opioids should be considered to avoid toxicity. 
 
 ## OPIOID TOXICITY
@@ -370,13 +391,19 @@ Defined as a chronic neurobiologic disease, characterized by behaviors that incl
 1. Biphosphonates in treating bone pain
 
 2. Antidepressants 
+
 - Tricyclic antidepressants 
+
 - Amitriptyline 
+
 - Nortriptyline 
 
 3. Anticonvulsants
+
 - Carbamazepine 
+
 - Gabapentin 
+
 - Pregabalin
 
 4. Corticosteroids such as Dexamethasone
