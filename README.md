@@ -481,6 +481,7 @@ This follow up is important in optimising pain control in preventing breakthroug
 
 Although most pain experienced by the patients can be managed by the primary team, there might be pain which does not respond well to initial treatment and requires specialised care. Thus, patients with severe pain and inadequate respond to pain management should be considered for referral to pain or palliative specialist services
 
+
 ### Quiz 12
 Which scenario **least** warrants referral to specialist palliative care?
 
