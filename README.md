@@ -84,7 +84,8 @@ iii. Occupational therapy intervention
 
 iv. Acupuncture
 
-Anwers options
+Which is the best answer option?
+
 [( )] i & ii
 [()] i & iii
 [()] i, ii & iii
