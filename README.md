@@ -87,8 +87,8 @@ iv. Acupuncture
 Which is the best answer option?
 
 [( )] i & ii
-[()] i & iii
-[()] i, ii & iii
+[( )] i & iii
+[( )] i, ii & iii
 [(X)] All of above 
 
 ## APPROACH TO PAIN MANAGEMENT
