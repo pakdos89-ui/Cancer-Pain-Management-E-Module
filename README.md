@@ -112,6 +112,15 @@ Which is the best answer option?
 
 **Image 4: Non Pharmacological Management of Pain**
 
+### Quiz 7
+Match the intervention with its description:
+
+- [[Mindfulness] (Dignity therapy) [Cognitive behaviour therapy] (Logotherapy)]
+- [    ( )             ( )                    (X)                     ( )     ]  A pyschotherapy which aims to challenge unhelpful and irrational thoughts and beliefs
+- [    (X)             ( )                    ( )                     ( )     ]  A psychotherapy focusing on paying attention on purpose in the moment
+- [    ( )             (X)                    ( )                     ( )     ]  A psychotherapy encouraging patients to talk about their lives and create a “legacy” document
+- [    ( )             ( )                    ( )                     (X)     ]  A psychotherapy focusing on a search for meaning
+
 ## PHARMACOLOGICAL MANAGEMENT
 
 Pharmacological agents are used to to provide pain relief and improve the quality of life for the patients as the cornerstone of cancer pain management 
