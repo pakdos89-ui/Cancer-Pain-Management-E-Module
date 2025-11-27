@@ -80,9 +80,7 @@ Which of the following is part of cancer pain management?
 - ii. Physiotherapy
 - iii. Occupational therapy intervention
 - iv. Acupuncture
-
 Anwers options
-
 [( )] i & ii
 [( )] i & iii
 [( )] i, ii & iii
