@@ -6,32 +6,18 @@ This module aims to improve confidence and competency in prescribing opioids app
 ### Quiz 1
 Which is not an element of the WHO approach to opioid prescribing?
 
-- A. by the mouth
-- B. by injection
-- C. by the clock
-- D. by the ladder
-
-<details>
-<summary>Answer (click to reveal)</summary>
-
-B. by injection
-
-</details>
+[( )] by the mouth
+[(X)] by injection
+[( )] by the clock
+[( )] by the ladder
 
 ### Quiz 2
 How common is cancer pain generally?
 
-- A. 90% of patients on diagnosis
-- B. 10% during anticancer treatment
-- C. 38.0% of all patients experience moderate to severe pain
-- D. 2% after curative treatment
-
-<details>
-<summary>Answer (click to reveal)</summary>
-
-C. 38.0% of all patients experience moderate to severe pain
-
-</details>
+[( )] 90% of patients on diagnosis
+[( )] 10% during anticancer treatment
+[(X)] 38.0% of all patients experience moderate to severe pain
+[( )] 2% after curative treatment
 
 ### Quiz 3
 According to Global Cancer Observatory of the World Health Organization (WHO) there were 51,650 new diagnoses of cancer in Malaysia in 2022 and the need for expanding palliative care services to address population needs has been acknowledged by the Ministry of Health.
