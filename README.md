@@ -73,7 +73,15 @@ We can do pain scoring by using pain assessment tool that is recommended for use
 
 **Image 2: Pain Assessment Tool used in Ministry of Health Malaysia settings**
 
+
 ### Quiz 5
+
+- [[Numeric Rating Scale] (Visual Rating Scale) [FLACC] (Faces Pain Scale)]
+- [        [ ]                      [ ]            [X]           [ ]      ]  A 90 year old female with advanced dementia who is aphasic
+- [        (X)                      ( )            ( )           ( )      ]  A 59 year old healthcare professional
+- [        ( )                      ( )            ( )           (X)      ]  A 4 year old child
+
+### Quiz 6
 Which of the following is part of cancer pain management? 
 
 i. Pharmacotherapy
@@ -258,7 +266,7 @@ Long-term use of opioids must not be abruptly discontinued to avoid withdrawal.
 
 Tapering opioid therapy must be conducted in a stepwise fashion, involving patients throughout the process.
 
-### Quiz 6
+### Quiz 7
 Mr A is on aqueous morphine 5 mg 4-hourly and required to take 3 extra rescue doses for pain control.
 What will be his new requirement for adequate pain control?
 
@@ -272,7 +280,7 @@ What will be his new requirement for adequate pain control?
 
 **Image 9: Opioids dose conversion summary**
 
-### Quiz 7
+### Quiz 8
 Please convert syrup morphine 10 mg Q4H to a continuous IV infusion.
 
 [( )] 200 mg / 24 hours 
@@ -293,7 +301,7 @@ Sudden with no identifiable source
 - Medication effect wears off before the next scheduled analgesic dose 
 - May be attributed to inadequate analgesic doses or dose intervals exceeding the medication’s duration of minimum effective plasma level for pain control.
 
-### Quiz 8
+### Quiz 9
 A single dose of rescue analgesia should be what fraction of the total daily opioid dose usually?
 
 [( )] 25% of total daily opioid dose
@@ -325,7 +333,7 @@ In the management of cancer pain for older patients or those with renal and/ or 
 
 - Adjustment in doses/frequency of opioids should be considered to avoid toxicity.
 
-### Quiz 9
+### Quiz 10
 Which strong opioid is comparatively **LEAST** likely to cause adverse effects in advanced renal impairment?
 
 [(X)] Fentanyl
@@ -333,7 +341,7 @@ Which strong opioid is comparatively **LEAST** likely to cause adverse effects i
 [( )] Morphine
 [( )] Hydromorphone
 
-### Quiz 10
+### Quiz 11
 Which is **NOT** a recommendation in preventing adverse effects in liver and kidney impairment?
 
 [(X)] Avoid using opioids
@@ -406,7 +414,7 @@ This follow up is important in optimising pain control in preventing breakthroug
 
 Although most pain experienced by the patients can be managed by the primary team, there might be pain which does not respond well to initial treatment and requires specialised care. Thus, patients with severe pain and inadequate respond to pain management should be considered for referral to pain or palliative specialist services
 
-### Quiz 11
+### Quiz 12
 The following are reasonable post discharge plans for patients commenced on oral morphine in hospital and discharged to their own home, **except**:
 
 [( )] Referral to hospice service in community
@@ -414,7 +422,7 @@ The following are reasonable post discharge plans for patients commenced on oral
 [( )] Telehealth follow up
 [( )] Referral to nearby Klinik Kesihatan using the official referral form
 
-### Quiz 12
+### Quiz 13
 Which scenario **LEAST** warrants referral to specialist palliative care?
 
 [(X)] Pain suboptimally controlled with syrup morphine 5 mg Q4H (requiring 4 breakthrough doses daily)
