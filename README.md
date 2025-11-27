@@ -262,16 +262,9 @@ Tapering opioid therapy must be conducted in a stepwise fashion, involving patie
 Mr A is on aqueous morphine 5 mg 4-hourly and required to take 3 extra rescue doses for pain control.
 What will be his new requirement for adequate pain control?
 
-- A. 5 mg/ 4 hourly
-- B. 7 mg / 4 hourly
-- C. 10 mg / 4 hourly
-
-<details>
-<summary>Answer (click to reveal)</summary>
-
-B. 7 mg / 4 hourly
-
-</details>
+[( )] 5 mg/ 4 hourly
+[(X)] 7 mg / 4 hourly
+[( )] 10 mg / 4 hourly
 
 ## OPIOID CONVERSION
 
@@ -282,16 +275,9 @@ B. 7 mg / 4 hourly
 ### Quiz 7
 Please convert syrup morphine 10 mg Q4H to a continuous IV infusion.
 
-- A. 200 mg / 24 hours 
-- B. 20 mg / 24 hours
-- C. 60 mg / 24 hours
-
-<details>
-<summary>Answer (click to reveal)</summary>
-
-B. 20 mg / 24 hours
-
-</details>
+[( )] 200 mg / 24 hours 
+[(X)] 20 mg / 24 hours
+[( )] 60 mg / 24 hours
 
 ## BREAKTHROUGH PAIN MANAGEMENT
 
@@ -310,17 +296,10 @@ Sudden with no identifiable source
 ### Quiz 8
 A single dose of rescue analgesia should be what fraction of the total daily opioid dose usually?
 
-- A. 25% of total daily opioid dose
-- B. 1/6 to 1/10 of total daily opioid dose
-- C. 50% of total daily opioid dose
-- D. 5% of total daily opioid dose
-
-<details>
-<summary>Answer (click to reveal)</summary>
-
-B. 1/6 to 1/10 of total daily opioid dose
-
-</details>
+[( )] 25% of total daily opioid dose
+[(X)] 1/6 to 1/10 of total daily opioid dose
+[( )] 50% of total daily opioid dose
+[( )] 5% of total daily opioid dose
 
 ## OPIOID ADVERSE EFFECTS
 
@@ -346,36 +325,21 @@ In the management of cancer pain for older patients or those with renal and/ or 
 
 - Adjustment in doses/frequency of opioids should be considered to avoid toxicity.
 
-
 ### Quiz 9
 Which strong opioid is comparatively **LEAST** likely to cause adverse effects in advanced renal impairment?
 
-- A. Fentanyl
-- B. Oxycodone
-- C. Morphine
-- D. Hydromorphone
-
-<details>
-<summary>Answer (click to reveal)</summary>
-
-- A. Fentanyl
-
-</details>
+[(X)] Fentanyl
+[( )] Oxycodone
+[( )] Morphine
+[( )] Hydromorphone
 
 ### Quiz 10
 Which is **NOT** a recommendation in preventing adverse effects in liver and kidney impairment?
 
-- A. Avoid using opioids
-- B. Increase dosing interval
-- C. Reduce dosage
-- D. Arrange close monitoring for adverse effects
-
-<details>
-<summary>Answer (click to reveal)</summary>
-
-- A. Avoid using opioids
-
-</details>
+[(X)] Avoid using opioids
+[( )] Increase dosing interval
+[( )] Reduce dosage
+[( )] Arrange close monitoring for adverse effects
 
 ## OPIOID TOXICITY
 
@@ -445,33 +409,19 @@ Although most pain experienced by the patients can be managed by the primary tea
 ### Quiz 11
 The following are reasonable post discharge plans for patients commenced on oral morphine in hospital and discharged to their own home, **except**:
 
-- A. Referral to hospice service in community
-- B. Aiming to taper and discontinue morphine prior to discharge
-- C. Telehealth follow up
-- D. Referral to nearby Klinik Kesihatan using the official referral form
-
-<details>
-<summary>Answer (click to reveal)</summary>
-
-- B. Aiming to taper and discontinue morphine prior to discharge
-
-</details>
-
+[( )] Referral to hospice service in community
+[(X)] Aiming to taper and discontinue morphine prior to discharge
+[( )] Telehealth follow up
+[( )] Referral to nearby Klinik Kesihatan using the official referral form
 
 ### Quiz 12
 Which scenario **LEAST** warrants referral to specialist palliative care?
 
-- A. Pain suboptimally controlled with syrup morphine 5 mg Q4H (requiring 4 breakthrough doses daily)
-- B. Pain poorly responsive to opioids despite several steps of titration and opioid rotation (change to different strong opioid)
-- C. Pain associated with new-onset lower limb weakness and a sensory level in the context of spinal metastasis
-- D. Pain associated with profound existential distress and patient expressing hopelessness and loss of meaning in life
+[(X)] Pain suboptimally controlled with syrup morphine 5 mg Q4H (requiring 4 breakthrough doses daily)
+[( )] Pain poorly responsive to opioids despite several steps of titration and opioid rotation (change to different strong opioid)
+[( )] Pain associated with new-onset lower limb weakness and a sensory level in the context of spinal metastasis
+[( )] Pain associated with profound existential distress and patient expressing hopelessness and loss of meaning in life
 
-<details>
-<summary>Answer (click to reveal)</summary>
-
-- A. Pain suboptimally controlled with syrup morphine 5 mg Q4H (requiring 4 breakthrough doses daily)
-
-</details>
 
 ## POST TEST ASSESSMENT
 
