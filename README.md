@@ -75,7 +75,7 @@ We can do pain scoring by using pain assessment tool that is recommended for use
 
 
 ### Quiz 5
-Pick the best pain assessment tool for scoring based on the given scenarios
+Pick the **BEST** pain assessment tool for scoring the given scenarios
 
 - [[Numeric Rating Scale] (Visual Rating Scale) [FLACC] (Faces Pain Scale)]
 - [        [ ]                      [ ]            [X]           [ ]      ]  A 90 year old female with advanced dementia who is aphasic
