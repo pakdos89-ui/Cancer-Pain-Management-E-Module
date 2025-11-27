@@ -40,7 +40,7 @@ Which is the most common concern among patients?
 <details>
 <summary>Answer (click to reveal)</summary>
 
-Answer is belief that opioids are only for terminal cases. In the same study 62% felt opioids were only for terminal cases, 54% feared adverse effects and 48% were concerned about becoming addicted.
+In the same study 62% felt opioids were only for terminal cases, 54% feared adverse effects and 48% were concerned about becoming addicted.
 
 </details>
 
@@ -82,17 +82,11 @@ Which of the following is part of cancer pain management?
 - iv. Acupuncture
 
 Anwers options
+
 [( )] i & ii
 [( )] i & iii
 [( )] i, ii & iii
 [(X)] All of above 
-
-<details>
-<summary>Answer (click to reveal)</summary>
-
-- D. All of above
-
-</details>
 
 ## APPROACH TO PAIN MANAGEMENT
 
