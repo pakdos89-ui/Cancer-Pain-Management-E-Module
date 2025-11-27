@@ -24,30 +24,23 @@ According to Global Cancer Observatory of the World Health Organization (WHO) th
 An important barrier to better pain control among cancer patients appears to relate to physicians and patient attitudes towards opioids.
 Which is the most common concern among physicians?
 
-- A. Concerns about addiction
-- B. Concerns about legality
-- C. Lack of knowledge
-
-<details>
-<summary>Answer (click to reveal)</summary>
-
-C. Lack of knowledge
-
-</details>
+[( )] Concerns about addiction
+[( )] Concerns about legality
+[(X)] Lack of knowledge
 
 ### Quiz 4
 According to Global Cancer Observatory of the World Health Organization (WHO) there were 51,650 new diagnoses of cancer in Malaysia in 2022 and the need for expanding palliative care services to address population needs has been acknowledged by the Ministry of Health.
 An important barrier to better pain control among cancer patients appears to relate to physicians and patient attitudes towards opioids.
 Which is the most common concern among patients?
 
-- A. Addiction
-- B. Side effects
-- C. Belief that opioids are only for terminal cases
+[( )] Addiction
+[( )] Side effects
+[(X)] Belief that opioids are only for terminal cases
 
 <details>
 <summary>Answer (click to reveal)</summary>
 
-C. Belief that opioids are only for terminal cases. In the same study 62% felt opioids were only for terminal cases, 54% feared adverse effects and 48% were concerned about becoming addicted.
+Answer is belief that opioids are only for terminal cases. In the same study 62% felt opioids were only for terminal cases, 54% feared adverse effects and 48% were concerned about becoming addicted.
 
 </details>
 
@@ -89,10 +82,10 @@ Which of the following is part of cancer pain management?
 - iv. Acupuncture
 
 Anwers options
-- A. i & ii
-- B. i & iii
-- C. i, ii & iii
-- D. All of above 
+[( )] i & ii
+[( )] i & iii
+[( )] i, ii & iii
+[(X)] All of above 
 
 <details>
 <summary>Answer (click to reveal)</summary>
