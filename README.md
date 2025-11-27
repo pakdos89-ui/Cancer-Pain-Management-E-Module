@@ -4,7 +4,7 @@ This e-learning module serves as a reusable digital educational resource designe
 This module aims to improve confidence and competency in prescribing opioids appropriately for cancer pain management.
 
 ### Quiz 1
-Which is not an element of the WHO approach to opioid prescribing?
+Which is **NOT** an element of the WHO approach to opioid prescribing?
 
 [( )] by the mouth
 [(X)] by injection
@@ -22,7 +22,7 @@ How common is cancer pain generally?
 ### Quiz 3
 According to Global Cancer Observatory of the World Health Organization (WHO) there were 51,650 new diagnoses of cancer in Malaysia in 2022 and the need for expanding palliative care services to address population needs has been acknowledged by the Ministry of Health.
 An important barrier to better pain control among cancer patients appears to relate to physicians and patient attitudes towards opioids.
-Which is the most common concern among physicians?
+Which is the **MOST** common concern among physicians?
 
 [( )] Concerns about addiction
 [( )] Concerns about legality
@@ -31,7 +31,7 @@ Which is the most common concern among physicians?
 ### Quiz 4
 According to Global Cancer Observatory of the World Health Organization (WHO) there were 51,650 new diagnoses of cancer in Malaysia in 2022 and the need for expanding palliative care services to address population needs has been acknowledged by the Ministry of Health.
 An important barrier to better pain control among cancer patients appears to relate to physicians and patient attitudes towards opioids.
-Which is the most common concern among patients?
+Which is the **MOST** common concern among patients?
 
 [( )] Addiction
 [( )] Side effects
@@ -276,7 +276,7 @@ Long-term use of opioids must not be abruptly discontinued to avoid withdrawal.
 
 Tapering opioid therapy must be conducted in a stepwise fashion, involving patients throughout the process.
 
-### Quiz 7
+### Quiz 8
 Mr A is on aqueous morphine 5 mg 4-hourly and required to take 3 extra rescue doses for pain control.
 What will be his new requirement for adequate pain control?
 
@@ -290,7 +290,7 @@ What will be his new requirement for adequate pain control?
 
 **Image 9: Opioids dose conversion summary**
 
-### Quiz 8
+### Quiz 9
 Please convert syrup morphine 10 mg Q4H to a continuous IV infusion.
 
 [( )] 200 mg / 24 hours 
@@ -311,7 +311,7 @@ Sudden with no identifiable source
 - Medication effect wears off before the next scheduled analgesic dose 
 - May be attributed to inadequate analgesic doses or dose intervals exceeding the medication’s duration of minimum effective plasma level for pain control.
 
-### Quiz 9
+### Quiz 10
 A single dose of rescue analgesia should be what fraction of the total daily opioid dose usually?
 
 [( )] 25% of total daily opioid dose
@@ -343,7 +343,7 @@ In the management of cancer pain for older patients or those with renal and/ or 
 
 - Adjustment in doses/frequency of opioids should be considered to avoid toxicity.
 
-### Quiz 10
+### Quiz 11
 Which strong opioid is comparatively **LEAST** likely to cause adverse effects in advanced renal impairment?
 
 [(X)] Fentanyl
@@ -351,7 +351,7 @@ Which strong opioid is comparatively **LEAST** likely to cause adverse effects i
 [( )] Morphine
 [( )] Hydromorphone
 
-### Quiz 11
+### Quiz 12
 Which is **NOT** a recommendation in preventing adverse effects in liver and kidney impairment?
 
 [(X)] Avoid using opioids
@@ -424,7 +424,7 @@ This follow up is important in optimising pain control in preventing breakthroug
 
 Although most pain experienced by the patients can be managed by the primary team, there might be pain which does not respond well to initial treatment and requires specialised care. Thus, patients with severe pain and inadequate respond to pain management should be considered for referral to pain or palliative specialist services
 
-### Quiz 12
+### Quiz 13
 The following are reasonable post discharge plans for patients commenced on oral morphine in hospital and discharged to their own home, **except**:
 
 [( )] Referral to hospice service in community
@@ -432,7 +432,7 @@ The following are reasonable post discharge plans for patients commenced on oral
 [( )] Telehealth follow up
 [( )] Referral to nearby Klinik Kesihatan using the official referral form
 
-### Quiz 13
+### Quiz 14
 Which scenario **LEAST** warrants referral to specialist palliative care?
 
 [(X)] Pain suboptimally controlled with syrup morphine 5 mg Q4H (requiring 4 breakthrough doses daily)
