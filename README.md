@@ -81,10 +81,10 @@ iii. Occupational therapy intervention
 iv. Acupuncture
 
 Anwers options
-[( )] i & ii
-[( )] i & iii
-[( )] i, ii & iii
-[(X)] All of above 
+- [( )] i & ii
+- [( )] i & iii
+- [( )] i, ii & iii
+- [(X)] All of above 
 
 ## APPROACH TO PAIN MANAGEMENT
 
