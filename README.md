@@ -75,9 +75,13 @@ We can do pain scoring by using pain assessment tool that is recommended for use
 
 ### Quiz 5
 Which of the following is part of cancer pain management? 
+
 i. Pharmacotherapy
+
 ii. Physiotherapy
+
 iii. Occupational therapy intervention
+
 iv. Acupuncture
 
 Anwers options
